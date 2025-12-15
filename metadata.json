@@ -4,7 +4,8 @@
   "settings-schema": "org.gnome.shell.extensions.batteryIcon",
   "shell-version": [
     "45",
-    "48"
+    "48",
+    "49"
   ],
   "url": "https://github.com/slim8916/batteryIcon",
   "uuid": "batteryIcon@slim8916.github.io",
